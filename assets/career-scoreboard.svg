@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-labelledby="title desc">
+  <title id="title">Dhruv Talwar's cricketing career scorecard</title>
+  <desc id="desc">Three hackathon finals, Grand Finalist at IIT Kharagpur, Top 5 in Debug Dash, CodeFusion finalist, and OmniLink AI incubated at ECell MUJ.</desc>
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#112846"/>
+      <stop offset=".55" stop-color="#173c69"/>
+      <stop offset="1" stop-color="#0d2e58"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#f8cf76"/>
+      <stop offset="1" stop-color="#ff9f55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="238" rx="24" fill="url(#navy)"/>
+  <path d="M24 23h1152M24 216h1152" stroke="#b8d7f3" stroke-opacity=".24"/>
+  <path d="M0 196q300-68 600 0t600 0" fill="none" stroke="#76b8ec" stroke-opacity=".12" stroke-width="3"/>
+  <circle cx="53" cy="57" r="18" fill="#f8f5e9"/>
+  <path d="M42 43q22 14 22 28M48 40q21 14 21 28" fill="none" stroke="#b7b9be" stroke-width="2"/>
+  <text x="86" y="64" fill="#f3f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="1">MY CRICKETING SCORECARD</text>
+  <text x="1150" y="63" text-anchor="end" fill="#a9cbe9" font-family="Consolas, monospace" font-size="15" letter-spacing="2">THE DEVELOPER'S INNINGS</text>
+  <path d="M24 82h1152" stroke="#a7cbe6" stroke-opacity=".3"/>
+  <path d="M240 98v101M480 98v101M720 98v101M960 98v101" stroke="#dcecff" stroke-opacity=".23"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="151" fill="url(#shine)" font-size="45" font-weight="850">3×</text>
+    <text x="45" y="178" fill="#f5f8fb" font-size="17" font-weight="750">HACKATHON</text>
+    <text x="45" y="199" fill="#bdd7ef" font-size="15">FINALIST</text>
+
+    <text x="261" y="151" fill="url(#shine)" font-size="37" font-weight="850">GRAND</text>
+    <text x="262" y="178" fill="#f5f8fb" font-size="17" font-weight="750">FINALIST</text>
+    <text x="262" y="199" fill="#bdd7ef" font-size="15">IIT KHARAGPUR</text>
+
+    <text x="502" y="151" fill="url(#shine)" font-size="43" font-weight="850">TOP 5</text>
+    <text x="503" y="178" fill="#f5f8fb" font-size="17" font-weight="750">DEBUG DASH</text>
+    <text x="503" y="199" fill="#bdd7ef" font-size="15">HACKERRANK</text>
+
+    <text x="741" y="151" fill="url(#shine)" font-size="33" font-weight="850">FINALIST</text>
+    <text x="742" y="178" fill="#f5f8fb" font-size="17" font-weight="750">CODEFUSION</text>
+    <text x="742" y="199" fill="#bdd7ef" font-size="15">HACKERRANK</text>
+
+    <text x="981" y="151" fill="url(#shine)" font-size="32" font-weight="850">INCUBATED</text>
+    <text x="982" y="178" fill="#f5f8fb" font-size="17" font-weight="750">OMNILINK AI</text>
+    <text x="982" y="199" fill="#bdd7ef" font-size="15">ECELL MUJ</text>
+  </g>
+</svg>
